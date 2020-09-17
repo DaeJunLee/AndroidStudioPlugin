@@ -1,5 +1,5 @@
-# AndroidStudioPlugin
-It is plugin list for Android Studio
+# AndroidStudio
+It is list about Android studio
 
 ## Plugins
 ~[RoboPOJOGenerator](https://github.com/robohorse/RoboPOJOGenerator)~
