@@ -22,7 +22,7 @@ Ctrl + Shirt + Alt + F10 : Generate
 Ctrl + Alt + num1 : spilt vertically
 Ctrl + Alt + num2 : spilt horizontally
 
-Alt + 3 : show Termenal
+Alt + 3 : show Terminal
 
 Alt + C : Clean Project
 ```
