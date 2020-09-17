@@ -14,15 +14,15 @@ Base Key : Eclipse
 
 ### Add Key for ME
 ```
-Ctrl + Shirt + Alt + U : update Sync Gradle
-Ctrl + Shirt + Alt + O : open recently project
+Ctrl + Shirt + Alt + U : Update Sync Gradle
+Ctrl + Shirt + Alt + O : Open Recently Project
 
 Ctrl + Shirt + Alt + F10 : Generate
 
-Ctrl + Alt + num1 : spilt vertically
-Ctrl + Alt + num2 : spilt horizontally
+Ctrl + Alt + num1 : Split Vertically
+Ctrl + Alt + num2 : Split Horizontally
 
-Alt + 3 : show Terminal
+Alt + 3 : Show Terminal
 
 Alt + C : Clean Project
 ```
